@@ -1,5 +1,5 @@
 installer:
-	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magicseteditor.zip
+	url:				https://github.com/Voyager-MTG/Silver-MSE-Installers/raw/refs/heads/main/magicseteditor.zip
 	downloadable:		true
 	package:
 		name:				Magic Set Editor
@@ -7,7 +7,7 @@ installer:
 		installer group:	Magic Set Editor
 		position hint:		-10000000
 		short name:			Magic Set Editor
-		full name:			Application		
+		full name:			Application
 installer:
 	url:				https://github.com/Voyager-MTG/Silver-MSE-Installers/raw/refs/heads/main/ch-s.mse-locale.mse-installer
 	downloadable:		true
