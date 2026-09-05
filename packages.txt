@@ -7577,20 +7577,6 @@ installer:
 			package: magic-modules.mse-include
 			version: 2024-10-01
 installer:
-	url:				https://github.com/Voyager-MTG/Silver-MSE-Installers/raw/refs/heads/main/magic-modules.mse-include.mse-installer
-	downloadable:		true
-	package:
-		name:				magic-modules.mse-include
-		version:			2026-08-28
-		installer group:	magic/Game Files/Modules
-		position hint:		02
-		short name:			Modules
-		full name:			Frame Building Assets
-		icon url:			https://github.com/Voyager-MTG/Silver-MSE-Installers/raw/refs/heads/main/magic-modules.mse-include.icon.png
-		depends on:
-			package:			magic.mse-game
-			version:			2026-08-28
-installer:
 	url:				https://github.com/Voyager-MTG/Silver-MSE-Installers/raw/refs/heads/main/magic-monarch-emblem-with-name.mse-style.mse-installer
 	downloadable:		true
 	package:
